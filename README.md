@@ -2,7 +2,12 @@
 
 [[Paper](https://openreview.net/pdf?id=wJAF8TGVUG)], [[Bohrium App](https://bohrium.dp.tech/apps/s-molsearch)]
 
-This repository contains the official implementation of **S-MolSearch**, a novel semi-supervised contrastive learning framework for molecular search, as presented in our NeurIPS 2024 paper. S-MolSearch leverages inverse optimal transport to integrate limited labeled data with extensive unlabeled data, significantly enhancing the accuracy and efficiency of molecule searches in virtual screening.
+This repository contains the official implementation of S-MolSearch, a novel semi-supervised contrastive learning framework for molecular search, as presented in our NeurIPS 2024 paper.
+
+<p align="center"><img src="figure/overview.png" width=80%></p>
+<p align="center"><b>Overview of the S-MolSearch framework</b></p>
+
+ S-MolSearch leverages inverse optimal transport to integrate limited labeled data with extensive unlabeled data, significantly enhancing the accuracy and efficiency of molecule searches in virtual screening.
 
 
 
