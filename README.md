@@ -12,7 +12,7 @@ This repository contains the official implementation of S-MolSearch, a novel sem
 
 
 ## Release
-We will release the code ASAP.
+The main code has been released. Training and testing scripts will be released ASAP.
 
 ## Citation
 If you find this work useful, please cite our paper:
